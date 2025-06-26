@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ce6JDf5mHU9qFMjenqBv1WEbi1XkLxhpAblOtV9YqPw=",
+  "Source": "CafeEmployeeApi",
+  "BasePath": "_content/CafeEmployeeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
