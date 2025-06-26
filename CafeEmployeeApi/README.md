@@ -161,7 +161,7 @@ Here are the primary endpoints available in this API.
 └── Program.cs              # Application startup and service registration
 
 /CafeEmployeeApi.Tests
-└── ServiceTests/     # Unit and integration tests for the service layer
+└── Services/     # Unit and integration tests for the service layer
 
 
 ```
