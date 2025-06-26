@@ -159,6 +159,11 @@ Here are the primary endpoints available in this API.
 ├── appsettings.json        # Application configuration
 ├── CafeEmployeeApi.csproj  # Project file
 └── Program.cs              # Application startup and service registration
+
+/CafeEmployeeApi.Tests
+└── ServiceTests/     # Unit and integration tests for the service layer
+
+
 ```
 
 ## Contributing
