@@ -61,7 +61,7 @@ Follow these instructions to get a local copy of the project up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/afe-employee-crud-react-app.git
+    git clone https://github.com/naga-raju-a/afe-employee-crud-react-app.git
     cd CafeEmployeeApi
     ```
 
@@ -97,10 +97,10 @@ Follow these instructions to get a local copy of the project up and running.
     ```sh
     dotnet run
     ```
-    The API should now be running. By default, you can access it at `https://localhost:7123` or `http://localhost:5123`.
+    The API should now be running. By default, you can access it at `https://localhost:<port>`.
 
 6.  **Explore the API with Swagger:**
-    Navigate to `https://localhost:7123/swagger` in your browser to view the interactive API documentation.
+    Navigate to `https://localhost:<port>/swagger` in your browser to view the interactive API documentation.
 
 ## API Endpoints
 
